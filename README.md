@@ -45,3 +45,5 @@ Parar a aplicação:
 ```
 CTRL + C ou COMMAND + C se estiver no macOS
 ```
+
+## Link projeto em produção: [RUBYFLIX](https://rubyflix.vercel.app/)
